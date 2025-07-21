@@ -1,12 +1,5 @@
-  <link href="https://fonts.googleapis.com/css2?family=Borel&display=swap" rel="stylesheet">
-  <style>
-    h1 {
-      font-family: 'Borel', cursive;
-      text-align: left;
-    }
-  </style>
 
-<h1 align="left">hello</h1>
+<h1 align="left">Hello there,</h1>
 
 ###
 
