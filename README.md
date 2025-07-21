@@ -8,8 +8,7 @@
   <p align="center"> 
     <samp>
       <br>
-      「 I am a computer science student.」
-     c
+        I am currently pursuing my studying Computer Science at University of Florida.
       <br>
     </samp>
   </p>
