@@ -6,11 +6,9 @@
   </h3>
 
   <p align="center"> 
-    <samp>
       <br>
-        I am currently pursuing my studying Computer Science at University of Florida.
+        I am currently studying Computer Science at University of Florida.
       <br>
-    </samp>
   </p>
 
 ---  
