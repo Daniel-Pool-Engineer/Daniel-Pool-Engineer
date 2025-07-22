@@ -22,7 +22,10 @@
   <a href="https://github.com/Daniel-Pool-Engineer">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=Daniel-Pool-Engineer&show_icons=true&theme=outrun&border_color=7F3FBF&bg_color=0D1117&rank_icon=github" /> <br>
   </a>
-  <a href="https://github.com/Daniel-Pool-Engineer">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Pool-Engineer&size_weight=0.5&count_weight=0.5&theme=outrun&border_color=7F3FBF&bg_color=0D1117&layout=compact" />
-  </a>
 </p>
+
+###
+
+<img src="https://raw.githubusercontent.com/Daniel-Pool-Engineer/Daniel-Pool-Engineer/output/snake.svg" alt="Snake animation" />
+
+###
