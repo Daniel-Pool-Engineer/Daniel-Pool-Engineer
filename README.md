@@ -23,9 +23,8 @@
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=Daniel-Pool-Engineer&show_icons=true&theme=outrun&border_color=7F3FBF&bg_color=0D1117&rank_icon=github" /> <br>
   </a>
 </p>
-
-###
-
-<img src="https://raw.githubusercontent.com/Daniel-Pool-Engineer/Daniel-Pool-Engineer/output/snake.svg" alt="Snake animation" />
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daniel-Pool-Engineer/Daniel-Pool-Engineer/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daniel-Pool-Engineer/Daniel-Pool-Engineer/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Daniel-Pool-Engineer/Daniel-Pool-Engineer/output/pacman-contribution-graph.svg">
+</picture>
