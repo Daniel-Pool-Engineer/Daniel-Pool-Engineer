@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h3 align="center">
         <samp>&gt; Hey there!, I'm
-                <b>Daniel Pool.</b>
+                <b>Daniel.</b>
         </samp>
   </h3>
 
@@ -26,5 +26,4 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daniel-Pool-Engineer/Daniel-Pool-Engineer/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daniel-Pool-Engineer/Daniel-Pool-Engineer/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Daniel-Pool-Engineer/Daniel-Pool-Engineer/output/pacman-contribution-graph.svg">
-</picture>
+ </picture>
