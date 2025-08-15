@@ -7,7 +7,7 @@
 
   <p align="center"> 
       <br>
-        I am currently studying Computer Science at University of Florida.
+       Welcome to my GitHub!
       <br>
   </p>
 
