@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h3 align="center">
-        <samp>&gt; Hey there! I'm
+        <samp>&gt; Hey, I'm
                 <b>Daniel.</b>
         </samp>
   </h3>
